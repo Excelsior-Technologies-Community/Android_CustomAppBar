@@ -65,7 +65,7 @@ dependencyResolutionManagement {
 ### Add Dependency
 ```
 dependencies {
-	        implementation 'com.github.Excelsior-Technologies-Community:Android_EasyPagination:1.0.0'
+	        implementation 'com.github.Excelsior-Technologies-Community:Android_CustomAppBar:1.0.0'
 	}
 ```
 

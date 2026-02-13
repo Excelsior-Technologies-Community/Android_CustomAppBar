@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Declare attributes ONLY ONCE -->
+    <attr name="title" format="string"/>
+    <attr name="showBack" format="boolean"/>
+    <attr name="actionIcon" format="reference"/>
+    <attr name="backgroundColor" format="color"/>
+    <attr name="titleColor" format="color"/>
+
+    <!-- Primary AppBar -->
+    <declare-styleable name="PrimaryAppBarView">
+        <attr name="title"/>
+        <attr name="showBack"/>
+        <attr name="actionIcon"/>
+        <attr name="backgroundColor"/>
+        <attr name="titleColor"/>
+    </declare-styleable>
+
+    <!-- Secondary AppBar -->
+    <declare-styleable name="SecondaryAppBarView">
+        <attr name="title"/>
+        <attr name="showBack"/>
+        <attr name="actionIcon"/>
+        <attr name="backgroundColor"/>
+        <attr name="titleColor"/>
+    </declare-styleable>
+
+</resources>

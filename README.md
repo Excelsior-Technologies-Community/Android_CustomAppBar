@@ -148,8 +148,6 @@ Both AppBars support these attributes:
 
 ---
 
----
-
 ### License
 
 ```
